@@ -1,4 +1,4 @@
-# Hi, I'm Manas Kanakala
+# Hi, I'm Manas
 
 [My portfolio site!](https://mkanakala10.github.io/my-portfolio/)
 
