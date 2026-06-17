@@ -1,6 +1,6 @@
 # Hi, I'm Manas Kanakala
 
-[🌐 Check out my portfolio site!](https://mkanakala10.github.io/my-portfolio/)
+[Check out my portfolio site!](https://mkanakala10.github.io/my-portfolio/)
 
 ## Me
 
