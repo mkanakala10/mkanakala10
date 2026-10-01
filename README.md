@@ -10,7 +10,7 @@ My engineering focus bridges AI, high-performance data systems, and scalable ful
 
 ## Experience & Projects
 
-*   **AI Engineering @ Unique Minds:** Built an event-driven serverless backend using Firebase and optimized a Gemini content generation pipeline, cutting average response times by 60%.
+*   **AI Engineering @ Unique Minds:** Owned multiple distinct cross disciplinary features across the app while continuously iterating upon them based on data driven feedback and metrics.
 *   **Software Engineering @ DiClano:** Designed a full-stack, RBAC-enabled SaaS platform using FastAPI, React, and PostgreSQL for over 1,000 users, maintaining a P99 latency of under 100ms.
 *   **Software Engineering @ VestaLabs:** Architected a serverless video processing pipeline integrating GCP Storage, BigQuery, and Vertex AI for automated metadata extraction.
 *   **Real-Time Data Pipeline:** Developed a fault-tolerant pipeline in Java using Apache Kafka, Spark Streaming, and Cassandra to process over 10,000 events per second.
