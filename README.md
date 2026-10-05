@@ -2,8 +2,6 @@
 
 [My portfolio site!](https://mkanakala10.github.io/my-portfolio/)
 
-## Me
-
 I am a software engineer wrapping up my Bachelor of Science in Computer Science with a Data Science minor at the University of Wisconsin–Madison, and will be beginning my Master of Science in AI & ML at the University of Washington this fall. 
 
 My engineering focus bridges AI, high-performance data systems, and scalable full-stack development. Recently, I've been building event-driven serverless architectures, optimizing LLM content pipelines, and developing fault-tolerant real-time data streams. I also enjoy exploring high-performance computing concepts, GPU architecture optimizations, and remote sensing data analysis.
